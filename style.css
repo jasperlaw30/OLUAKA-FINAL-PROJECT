@@ -566,17 +566,23 @@
 }
 .pic1{
     height:20vh;
-    width:30;
-    border:1px solid blueviolet;
+    width:100%;
+    /* border:1px solid blueviolet; */
     border-radius:20px;
     margin-top:22px;
+    background-image:url('assets/dish11.jpg');
+    background-repeat: no-repeat;
+    background-size:100% 20vh;
 }
 .pic2{
     height:39vh;
     width: 100%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     border-radius:20px;
     margin-top:18px;
+     background-image:url('assets/dish14.jpg');
+    background-repeat: no-repeat;
+    background-size:100% 39vh;
 }
 .circle{
     height: 20vh;
